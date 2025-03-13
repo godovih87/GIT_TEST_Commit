@@ -1,0 +1,10 @@
+C:\Users\Egor\Desktop\Visual Studio\Test_TRPO_Commit\Test_TRPO_Commit\bin\Debug\Test_TRPO_Commit.exe.config
+C:\Users\Egor\Desktop\Visual Studio\Test_TRPO_Commit\Test_TRPO_Commit\bin\Debug\Test_TRPO_Commit.exe
+C:\Users\Egor\Desktop\Visual Studio\Test_TRPO_Commit\Test_TRPO_Commit\bin\Debug\Test_TRPO_Commit.pdb
+C:\Users\Egor\Desktop\Visual Studio\Test_TRPO_Commit\Test_TRPO_Commit\obj\Debug\Test_TRPO_Commit.csproj.AssemblyReference.cache
+C:\Users\Egor\Desktop\Visual Studio\Test_TRPO_Commit\Test_TRPO_Commit\obj\Debug\Test_TRPO_Commit.Form1.resources
+C:\Users\Egor\Desktop\Visual Studio\Test_TRPO_Commit\Test_TRPO_Commit\obj\Debug\Test_TRPO_Commit.Properties.Resources.resources
+C:\Users\Egor\Desktop\Visual Studio\Test_TRPO_Commit\Test_TRPO_Commit\obj\Debug\Test_TRPO_Commit.csproj.GenerateResource.cache
+C:\Users\Egor\Desktop\Visual Studio\Test_TRPO_Commit\Test_TRPO_Commit\obj\Debug\Test_TRPO_Commit.csproj.CoreCompileInputs.cache
+C:\Users\Egor\Desktop\Visual Studio\Test_TRPO_Commit\Test_TRPO_Commit\obj\Debug\Test_TRPO_Commit.exe
+C:\Users\Egor\Desktop\Visual Studio\Test_TRPO_Commit\Test_TRPO_Commit\obj\Debug\Test_TRPO_Commit.pdb
